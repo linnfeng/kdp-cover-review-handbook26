@@ -1,0 +1,7 @@
+site_name: Book-Cover Review Handbook
+docs_dir: docs
+site_description: A project-associated cover readability and print-handoff review workbook.
+nav:
+  - Review handoff: index.md
+theme:
+  name: readthedocs
